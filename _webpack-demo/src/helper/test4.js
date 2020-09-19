@@ -1,0 +1,1 @@
+import chartJs from 'chart.js'
